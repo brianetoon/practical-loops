@@ -1,14 +1,6 @@
 // Part 2 - Prime Time
 // Team - Toon, Priyanka, Hunter, Mohammed
 
-// declare an arbitrary number n
-// create a loop that searches for next prime number starting at n
-// find prime number, log that number and exit loop
-
-
-// outer for loop - while not prime
-// inner loop check if divisible by numbers that are smaller than it
-
 
 let userInput = 48;
 // we don't want to check userInput, we want to check the next number
