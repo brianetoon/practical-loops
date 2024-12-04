@@ -1,7 +1,6 @@
 // Part 3 - Feeling Loopy
 // Team - Toon, Priyanka, Hunter, Mohammed
 
-
 // Objectives
 // - Store each cell of data in a variable
 // - when you encounter a comma, moce to the next cell
@@ -39,6 +38,7 @@ for (let i = 0; i < mainString.length; i++) {
       }
 
     }
+
     cellCounter = 0;
     tempRow = "";
   }
