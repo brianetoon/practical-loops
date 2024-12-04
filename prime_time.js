@@ -2,9 +2,11 @@
 // Team - Toon, Priyanka, Hunter, Mohammed
 
 
-let userInput = 48;
+// let userInput = 30;
 // we don't want to check userInput, we want to check the next number
-let n = userInput += 1;
+// let n = userInput += 1;
+
+let n = 35;
 let isPrime = false;
 
 // run as long as isPrime is false
@@ -23,4 +25,3 @@ while (!isPrime) {
   // set isPrime to true to terminate the while loop
   isPrime = true;
 }
-
